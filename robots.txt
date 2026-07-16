@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-bxvo1x.fixwin.space/sitemap.xml
